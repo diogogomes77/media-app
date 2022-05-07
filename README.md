@@ -1,2 +1,2 @@
-# video-app
-video frontend
+#  media-app
+media frontend
